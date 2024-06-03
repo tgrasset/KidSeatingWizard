@@ -1,0 +1,38 @@
+Lea,        primaire,   grande_chaise,  avec_adulte, !Chloe
+
+Lucas,      maternelle, petite_chaise,  sans_porc, &Sarah
+
+Chloe,      maternelle, grande_chaise   ,veg,avec_adulte, !Lea, !Ines
+
+Gabriel,    maternelle, grande_chaise
+
+Rayan,      primaire,   petite_chaise,  veg, !Emma, !Valentin
+
+Emma,       primaire,   petite_chaise,  sans_porc, !Rayan
+
+Sarah,      maternelle, grande_chaise,  veg, &Lucas
+
+Maxime,     maternelle, petite_chaise,  sans_porc, &Assia
+
+Assia,      primaire,   petite_chaise,  &Maxime
+
+Mathis,     maternelle, grande_chaise,  avec_adulte
+
+Ines,       primaire,   grande_chaise,  avec_adulte, !Chloe
+
+Nathan,     maternelle, petite_chaise,  sans_porc
+
+Jade,       maternelle, grande_chaise,  veg, avec_adulte
+
+Louis,      maternelle, grande_chaise
+
+Eliott,     primaire,   petite_chaise, veg
+
+Valentin,   primaire,   petite_chaise,  sans_porc,!Rayan
+
+Mohammed,   maternelle, grande_chaise,  veg
+
+Alix,       maternelle, petite_chaise,  sans_porc
+
+Jules,      primaire,   petite_chaise
+
